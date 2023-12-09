@@ -3,55 +3,125 @@
         width: 420px;
     }
 
-    .home-section{
+    .home-section {
         padding-top: 30px;
     }
-    .home-text{
+
+    .home-text {
         padding-left: 30px;
         padding-right: 30px;
     }
-    .home-card{
+
+    .home-card {
         width: 100px;
         height: 250px;
-        font-size : 10px;
+        font-size: 10px;
     }
+
     .home-card .circle {
         margin-bottom: 5px;
     }
 
     .about-text {
-        padding : 10px;
+        padding: 10px;
+        font-size: 13px;
     }
-    .about-image img{
-        width : 150px;
+
+    .about-image img {
+        width: 150px;
         height: 300px;
     }
 
-
-
-    .pricing-text {
-        padding-left: 30px;
-        padding-right: 30px;
-    }
-    .pricing-card{
-        width: 170px;
-    }
-    .blog-section{
-        padding : 30px;
-    }
-    .blog-text{
-        padding-left: 30px;
-        padding-right: 30px;
-    }
-    .contact-text{
+    .work-text {
+        padding: 0px;
         padding-left: 0px;
         padding-right: 0px;
     }
-    .contact-form-fields input{
-        font-size: 5px;
+
+    .work-card {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+
+    .test-section {
+        padding: 10px;
 
     }
-    .contact-form-fields textarea{
-         font-size: 10px;
+
+    .test-text {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .test-card {
+        margin-top: 10px;
+    }
+
+    .pricing-section {
+        font-size: 20px;
+
+    }
+
+    .pricing-text {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .pricing-card {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .details {
+        padding: 100px;
+        font-size: 10px;
+    }
+
+    .details img {
+        width: 50px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .blog-section {
+        padding: 30px;
+    }
+
+    .blog-text {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .contact-section {
+        padding: 10px;
+        font-size: 15px;
+    }
+
+    .contact-text {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .contact-form-text {
+        width: 50%;
+    }
+
+    .contact-form-fields {
+        width: 50%;
+    }
+
+    .contact-form-fields input {
+        font-size: 10px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .contact-form-fields textarea {
+        font-size: 10px;
+    }
+
+    .contact-form-fields button {
+        font-size: 10px;
     }
 }
