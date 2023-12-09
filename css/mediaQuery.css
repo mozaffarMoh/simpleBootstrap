@@ -1,0 +1,57 @@
+@media (max-width:800px) {
+    .nav-template {
+        width: 420px;
+    }
+
+    .home-section{
+        padding-top: 30px;
+    }
+    .home-text{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .home-card{
+        width: 100px;
+        height: 250px;
+        font-size : 10px;
+    }
+    .home-card .circle {
+        margin-bottom: 5px;
+    }
+
+    .about-text {
+        padding : 10px;
+    }
+    .about-image img{
+        width : 150px;
+        height: 300px;
+    }
+
+
+
+    .pricing-text {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .pricing-card{
+        width: 170px;
+    }
+    .blog-section{
+        padding : 30px;
+    }
+    .blog-text{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .contact-text{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .contact-form-fields input{
+        font-size: 5px;
+
+    }
+    .contact-form-fields textarea{
+         font-size: 10px;
+    }
+}
